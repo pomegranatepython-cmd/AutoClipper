@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+input/
+output/
+clips/
+transcripts/
+*.mp4
+*.pt
+*.pyc
+person_detection_test.jpg
+tracking_data.json
+.env
